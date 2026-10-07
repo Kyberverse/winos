@@ -4,6 +4,11 @@
 
 This is a public test version. Thanks for trying it!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/winos-dark.png">
+  <img alt="WINOS connected to a Sonos One, playing PC audio, with volume, latency mode and now-playing controls" src="images/winos-light.png">
+</picture>
+
 ## Download
 
 **[Download the latest beta](https://github.com/Kyberverse/winos-beta/releases)**: get `WINOS-Setup-beta1.exe` from the release.
