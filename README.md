@@ -35,6 +35,7 @@ Tell us what works and what doesn't, especially if you have a Sonos speaker othe
 
 - In WINOS, open **Diagnostics** and click **Copy report**. It contains no passwords, keys or stream links.
 - [Open an issue](https://github.com/Kyberverse/winos-beta/issues/new/choose) and paste the report, or use the [tester page](https://claude.ai/artifact/HdVNbU88pobrdVtLQ8HkqF): it builds the report for you and opens the issue with it filled in.
+- No GitHub account? Comment in the [beta thread on Reddit](https://www.reddit.com/r/alphaandbetausers/comments/1x02iud/beta_windows_winos_play_your_pcs_sound_on_sonos/).
 - The **Send feedback** link at the bottom of the WINOS side menu opens the tester page.
 
 ## Privacy
