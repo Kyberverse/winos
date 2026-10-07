@@ -9,7 +9,7 @@
 
 ## Try it free for 14 days
 
-**[Download WINOS-Setup.exe](https://github.com/Kyberverse/winos-beta/releases/latest/download/WINOS-Setup.exe)** (about 80 MB), or see the [latest release](https://github.com/Kyberverse/winos-beta/releases/latest).
+**[Download WINOS-Setup.exe](https://github.com/Kyberverse/winos/releases/latest/download/WINOS-Setup.exe)** (about 80 MB), or see the [latest release](https://github.com/Kyberverse/winos/releases/latest).
 
 Every feature works during the trial. After 14 days, a one-time license key keeps WINOS working: **[buy a key](https://payhip.com/b/61oaS)**. No subscription.
 
@@ -41,7 +41,7 @@ To check the download is the real file, its SHA-256 checksum is listed in the re
 ## Help and feedback
 
 - In WINOS, open **Diagnostics**: it checks your network, speakers and firewall and says what to fix. **Copy report** gives a summary with no passwords, keys or stream links.
-- [Open an issue](https://github.com/Kyberverse/winos-beta/issues/new/choose) and paste the report, or use the [feedback page](https://claude.ai/artifact/HdVNbU88pobrdVtLQ8HkqF), which builds the report for you.
+- [Open an issue](https://github.com/Kyberverse/winos/issues/new/choose) and paste the report, or use the [feedback page](https://claude.ai/artifact/HdVNbU88pobrdVtLQ8HkqF), which builds the report for you.
 - Bought a key and WINOS doesn't work with your setup? You can get a full refund within 14 days of buying.
 
 ## Privacy
