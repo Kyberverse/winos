@@ -34,7 +34,8 @@ To check the download is the real file, its SHA-256 checksum is listed in the re
 Tell us what works and what doesn't, especially if you have a Sonos speaker other than a Sonos One (Arc, Beam, Era, Five, Move, Roam, or S1 speakers).
 
 - In WINOS, open **Diagnostics** and click **Copy report**. It contains no passwords, keys or stream links.
-- Post it in the [beta thread on r/sonos](https://www.reddit.com/r/sonos/comments/1x01ydv/i_made_a_windows_app_that_plays_your_pcs_audio_on/), open an [issue](https://github.com/Kyberverse/winos-beta/issues) here, or use the [tester page](https://claude.ai/artifact/HdVNbU88pobrdVtLQ8HkqF), which formats your report for you.
+- [Open an issue](https://github.com/Kyberverse/winos-beta/issues/new/choose) and paste the report, or use the [tester page](https://claude.ai/artifact/HdVNbU88pobrdVtLQ8HkqF): it builds the report for you and opens the issue with it filled in.
+- The **Send feedback** link at the bottom of the WINOS side menu opens the tester page.
 
 ## Privacy
 
