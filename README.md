@@ -6,7 +6,7 @@ This is a public test version. Thanks for trying it!
 
 ## Download
 
-**[Download the latest beta](https://github.com/Kyberverse/winos-beta/releases/latest)**: get `WINOS-Setup-beta1.exe` from the release.
+**[Download the latest beta](https://github.com/Kyberverse/winos-beta/releases)**: get `WINOS-Setup-beta1.exe` from the release.
 
 - **Windows:** Windows 10 (version 2004 or newer) or Windows 11, 64-bit.
 - **Speakers:** a Sonos speaker on the S2 app, on the same network as your PC.
